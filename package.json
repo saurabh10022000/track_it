@@ -2,7 +2,7 @@
   "name": "virus-track",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saurabh10022000.github.com/virus-track",
+  "homepage": "https://saurabh10022000.github.io/track_it",
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@testing-library/jest-dom": "^4.2.4",
